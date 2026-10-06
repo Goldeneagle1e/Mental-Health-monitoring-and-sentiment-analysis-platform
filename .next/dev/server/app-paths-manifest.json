@@ -1,0 +1,13 @@
+{
+  "/_not-found/page": "app/_not-found/page.js",
+  "/api/analyses/route": "app/api/analyses/route.js",
+  "/api/analyze/text/route": "app/api/analyze/text/route.js",
+  "/api/appointments/route": "app/api/appointments/route.js",
+  "/api/auth/2fa/setup/route": "app/api/auth/2fa/setup/route.js",
+  "/api/auth/login/route": "app/api/auth/login/route.js",
+  "/api/auth/me/route": "app/api/auth/me/route.js",
+  "/api/auth/register/route": "app/api/auth/register/route.js",
+  "/api/auth/verify-email/route": "app/api/auth/verify-email/route.js",
+  "/api/surveys/route": "app/api/surveys/route.js",
+  "/page": "app/page.js"
+}
